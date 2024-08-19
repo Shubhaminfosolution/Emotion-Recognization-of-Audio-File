@@ -5,13 +5,21 @@ Welcome to the Emotion Recognition from Audio Files project! This repository con
 
 Table of Contents
 •	Project Overview
+
 •	Features
+
 •	Installation
+
 •	Usage
+
 •	Dataset
+
 •	Model Architecture
+
 •	Results
+
 •	Future Work
+
 •	Contributing
 
 
